@@ -333,3 +333,4 @@ int main(){
 }
 
 //ini adalah program sederhana
+//program bangun datar
